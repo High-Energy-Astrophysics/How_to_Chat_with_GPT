@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__
+.vscode
+gpt4all-lora-quantized.bin
+sam_vit_h_4b8939.pth
+segment-anything/sam_vit_h_4b8939.pth
+openai.txt
+old_stuff
