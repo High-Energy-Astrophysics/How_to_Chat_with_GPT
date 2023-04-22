@@ -162,6 +162,7 @@ Generative Large Language models:
 - [Perplexity](https://www.perplexity.ai/) (Perplexity AI + OpenAI)
 - [Poe](https://poe.com/Sage) (ChatGPT, Claude, Sage)
 - [ArxivGPT](https://huggingface.co/spaces/Volkopat/ArxivGPT) (arxiv + OpenAI)
+- [Chat with PDF](https://huggingface.co/spaces/fffiloni/langchain-chat-with-pdf) (flan-ul2 by Google)
 
 Other tools:
 - [Whisper](https://github.com/openai/whisper) (OpenAI, [tutorial](https://github.com/Uberi/speech_recognition/blob/master/examples/microphone_recognition.py))

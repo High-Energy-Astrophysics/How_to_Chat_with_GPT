@@ -1,4 +1,0 @@
-speechrecognition
-pyaudio
-pysoundfile
-openai
