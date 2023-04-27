@@ -159,7 +159,7 @@ Generative Large Language models:
 - [Github Copilot](https://github.com/features/copilot) (Github + OpenAI)
 - [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/) (Office365 + OpenAI)
 - [Bing Chatbot](https://bing.com) (Bing search + OpenAI)
-- [Perplexity](https://www.perplexity.ai/) (Perplexity AI + OpenAI)
+- [Perplexity](https://www.perplexity.ai/) (Perplexity + OpenAI)
 - [Poe](https://poe.com/Sage) (ChatGPT, Claude, Sage)
 - [ArxivGPT](https://huggingface.co/spaces/Volkopat/ArxivGPT) (arxiv + OpenAI)
 - [Chat with PDF](https://huggingface.co/spaces/fffiloni/langchain-chat-with-pdf) (flan-ul2 by Google)
@@ -182,6 +182,7 @@ Other tools:
 - Elezier Yudkowski, Philosopher https://www.youtube.com/watch?v=AaTRHFaaPG8&t=2654s
 - Andrew Ng & Yann LeCun, Godfathers of AI https://www.youtube.com/watch?v=BY9KV8uCtj4
 - Andrey Karpathy, Tesla AI Director https://www.youtube.com/watch?v=cdiD-9MMpb0
+- Tomáš Mikolov, Word2Vec Creator https://www.youtube.com/watch?v=u8ObbGfUfDo (doporučuji přeskočit části kde mluví moderátor)
 
 <br>
 
